@@ -1,1 +1,0 @@
-# azure-voting-app-redis-master
